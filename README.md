@@ -1,2 +1,3 @@
 # day06_python
-strings
+installation
+
